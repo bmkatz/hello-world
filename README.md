@@ -1,2 +1,4 @@
 # hello-world
-My first Git Hub Repository via the tutorial
+Howdy folks,
+
+Brian here, learning all about Github
